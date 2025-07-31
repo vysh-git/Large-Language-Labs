@@ -1,5 +1,4 @@
-<img width="1125" height="858" alt="image" src="https://github.com/user-attachments/assets/7040d0d0-263c-4ad0-a524-eed9a09eef24" /># Large-Language-Labs
-LLM LAbs
+
 <h1>LAB-4</h1>
 <img width="1052" height="663" alt="image" src="https://github.com/user-attachments/assets/a82c2702-b622-4410-9df8-7e147c968cea" />
 <img width="1102" height="672" alt="image" src="https://github.com/user-attachments/assets/1d12e285-05bf-4946-a433-c5f0ce9db649" />
