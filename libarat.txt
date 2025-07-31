@@ -1,0 +1,9 @@
+streamlit
+transformers
+torch
+nltk
+pdfplumber
+SpeechRecognition
+gtts
+rouge-score
+sacrebleu
